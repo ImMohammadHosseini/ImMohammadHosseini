@@ -17,9 +17,9 @@
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ImMohammadHosseini?tab=repositories)
 
-- 👀 I’m interested in deep learning, reinforcement learning
+- 👀 I’m interested in NLP, reinforcement learning, Graph NNs
  and cloud simulation
-- 🌱 I’m currently learning cloud computing, graph datacenters 
+- 🌱 I’m currently learning Graph NNs, Reinforcement Learning and MlOps
 - 💞️ I’m looking to collaborate on AI
 
 [![-----------------------------------------------------]( 
