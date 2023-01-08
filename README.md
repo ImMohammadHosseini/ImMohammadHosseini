@@ -2,7 +2,7 @@
 <p align='center'> 👋Hi! Im Mohammad Hosseini </p>
 <p align='center'>
   <a href="https://ge.linkedin.com/in/mohammad-hosseini-93b661b2?trk=people-guest_people_search-card">
-    <![Linkedin Badge] src="https://img.shields.io/badge/MOhammad%20Hosseini%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <src="https://img.shields.io/badge/MOhammad%20Hosseini%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href="#demo">
     <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
