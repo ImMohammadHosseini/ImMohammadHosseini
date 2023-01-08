@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=80&section=header&text=Hi!%20Im%20Mohammad&fontSize=40&animation=fadeIn&fontAlignY=15&desc=A%20Machine%20Learning%20Engineer!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=90&section=header&text=Hi!%20Im%20Mohammad&fontSize=30&animation=fadeIn&fontAlignY=15&desc=A%20Machine%20Learning%20Engineer!&descAlignY=51&descAlign=62)
 
 <p align='center'> 👋Hi! Im Mohammad Hosseini </p>
 <p align='center'>
