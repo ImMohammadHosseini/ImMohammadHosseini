@@ -4,8 +4,8 @@
   <a href="https://ge.linkedin.com/in/mohammad-hosseini-93b661b2?trk=people-guest_people_search-card">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  <a href="mailto:sayedmh50@gmail.com">
+    <img src="https://img.shields.io/badge/sayedmh50@gmail.com%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white" alt="Gmail Badge">
   </a>
 </p>
 
