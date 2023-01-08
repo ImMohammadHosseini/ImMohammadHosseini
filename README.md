@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 👋 Hi, I’m Mohammad Hosseini @ImMohammadHosseini
+
 - 👀 I’m interested in deep learning, reinforcement learning
  and cloud simulation
 - 🌱 I’m currently learning cloud computing, graph datacenters 
