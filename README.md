@@ -17,15 +17,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  and cloud simulation
 - 🌱 I’m currently learning cloud computing, graph datacenters 
 - 💞️ I’m looking to collaborate on AI
+
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ImMohammadHosseini?tab=repositories)
 
-<!---
-sayedmh/sayedmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![-----------------------------------------------------]( 
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ImMohammadHosseini?tab=repositories)
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
