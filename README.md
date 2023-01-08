@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi!%20Im%20Mohammad%20Hosseini&fontSize=30&animation=fadeIn&fontAlignY=15&desc=A%20Machine%20Learning%20Engineer!&descAlignY=51&descAlign=62)
 
-<p align='center'> 👋Hi! Im Mohammad Hosseini </p>
 <p align='center'>
   <a href="https://ge.linkedin.com/in/mohammad-hosseini-93b661b2?trk=people-guest_people_search-card">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
