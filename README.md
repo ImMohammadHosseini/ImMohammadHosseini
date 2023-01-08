@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:sayedmh50@gmail.com">
-    <img src="https://img.shields.io/badge/sayedmh50@gmail.com%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/-sayedmh50@gmail.com%20-c14438?style=for-the-badge&&logoColor=white" alt="Gmail Badge">
   </a>
 </p>
 
