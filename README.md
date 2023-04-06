@@ -13,6 +13,9 @@
   </a>
 </p>
 
+I enjoy making connection between concepts. it makes me feel more creative and innovative and to do this I need to study. So, I love study. The ability of making connection between concepts helps me in professional works to. As an AI researcher, sometimes I gained solution with this ability. 
+Currently, I am a data mining master student and my thesis is about cloud computing resource managment. I proposed new mechanism to reach more optimized resource allocation and I have been struggling to implement it for the past few months. this approach takes help from graph NNs and Reinforcement learning.
+I believe in the power of community and I believe in the power of freedom. So, I am passionate about free software movement and open source ideas and communities.
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ImMohammadHosseini?tab=repositories)
