@@ -23,10 +23,9 @@ If this intrests you, feel free to reach out to me.<br />
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ImMohammadHosseini?tab=repositories)
 
-- 👀 I’m interested in NLP, reinforcement learning, Graph NNs
- and cloud simulation
-- 🌱 I’m currently learning Graph NNs, Reinforcement Learning and MlOps
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in multi-agent reinforcement learning, multi-agent robot systems, reinforcement learning, Graph NNs, NLP
+- 🌱 I’m currently learning multi-agent Reinforcement Learning, Robotic Operating System (ROS)
+- 💞️ I’m looking to collaborate on AI and robotics
 
 [![-----------------------------------------------------]( 
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/ImMohammadHosseini?tab=repositories)
